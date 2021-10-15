@@ -1,8 +1,8 @@
 <h1 align="center">Konas client</h1>
-![konas](https://user-images.githubusercontent.com/88904139/137552660-fe3bb1ce-93f9-4306-b0c4-7d0c6a90c89e.png)
 <p align="center">I didn't cracked this cheat, I cleared it.</p>
 
 <br>
+![konas](https://user-images.githubusercontent.com/88904139/137552660-fe3bb1ce-93f9-4306-b0c4-7d0c6a90c89e.png)
 
 # Instal
 1. konas.jar in .minecraft
