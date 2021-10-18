@@ -8,9 +8,9 @@
 <br>
 
 # Instal
-1 konas.jar in .minecraft
+1) konas.jar in .minecraft
 
-2 konas-b0.5.2-cleanedByNightDesert in mods
+2) konas-b0.5.2-cleanedByNightDesert in mods
 
 <br>
 
