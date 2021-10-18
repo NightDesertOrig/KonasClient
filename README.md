@@ -8,12 +8,12 @@
 <br>
 
 # Instal
-1. konas.jar in .minecraft
-2. konas-b0.5.2-cleanedByNightDesert in mods
+1. konas.jar in .minecraft.
+2. konas-b0.5.2-cleanedByNightDesert in mods.
 
 <br>
 
 # Author
 - **NightDesert**
-    - [Github](https://github.com/NightDesertOrig)
-    - [Discord](https://discord.gg/wUJYtnTdSV)
+- [Github](https://github.com/NightDesertOrig)
+- [Discord](https://discord.gg/wUJYtnTdSV)
