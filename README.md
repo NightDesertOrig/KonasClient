@@ -1,3 +1,5 @@
+![konas](https://user-images.githubusercontent.com/88904139/137678048-ff616d67-065e-4fc2-b003-8ae8702b5a5a.png)
+
 <h1 align="center">Konas client</h1>
 <p align="center">I didn't cracked this cheat, I cleared it.</p>
 
@@ -13,4 +15,3 @@
 - **NightDesert**
     - [Github](https://github.com/NightDesertOrig)
     - [Discord](https://discord.gg/wUJYtnTdSV)
-    - ![konas](https://user-images.githubusercontent.com/88904139/137552660-fe3bb1ce-93f9-4306-b0c4-7d0c6a90c89e.png)
